@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Raef al Hasan Rafa",
+        "designation": "Metal Guitarist",
+        "band": "Avoid Rafa",
+        "price": 97,
+        "img": "https://pbs.twimg.com/profile_images/1271854355302379520/KJbg6uIL_400x400.jpg",
+        "course": "6 Month",
+        "description": "Raef Al Hasan Rafa is a Bangladeshi musician, singer and songwriter, best known as the drummer of rock band Aurthohin, and as the drummer of Cryptic Fate. He also works bands like Severe Dementia, Kral and The Joint Family. He is the founding member of the rock band AvoidRafa."
+    },
+    {
+        "id": 2,
+        "name": "Mahaan Fahim",
+        "designation": "Clasical Guitarist",
+        "band": "Arthohin",
+        "price": 125,
+        "img": "https://scontent.fdac41-1.fna.fbcdn.net/v/t1.6435-9/140306235_3871826089540173_4316387104836408320_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mIeZegBrpyMAX8gD-SP&_nc_ht=scontent.fdac41-1.fna&oh=e5451b9ccc825b0339feff3352075c8b&oe=6180506C",
+        "course": "12 Month",
+        "description": "Mahaan Fahim is an acoustic finger style guitarist from Bangladesh. He has been working in Bangladeshi music industry since 2013 as a Music Producer, Song Writer, Music Arranger, session player, lyricist.  In 2013 he started his journey through releasing a solo instrumental Album named Cholo ( Lets go somewhere else). Soon after that he started working professionally and also contributing to the industry.  He  worked in over 200 projects with various artists throughout the country. He worked with popular singers like Kumar Biswajit, Tarun Munshi, Asif Akbar, Etc.  In 2015 he worked with one of the most popular musician of Bangladesh Named BB (Sumon),"
+    },
+    {
+        "id": 3,
+        "name": "Sheikh Monirul Tipu",
+        "designation": "Drummer",
+        "band": "Warfaze",
+        "price": 90,
+        "img": "https://media-eng.dhakatribune.com/uploads/2020/10/img-3627-1602792564193.PNG",
+        "course": "6 Month",
+        "description": "Tipu joined the band as drummer and band leader. They started the journey to do some real good hard rock and heavy metal music in bangladesh. It seemed successful when the first album came out in 1991 with the line up of: Vocals-Sunjay , guitars- Kamal , keyboard/guitars-Russel, bass-Babna ,drums -Tipu. After the first album , Kamal and Russel left for their studies abroad , it was very much tuff to keep the band alive when half of the members are abroad. Though Tipu Sticked to the band and kept contact with the members ,when Kamal or Russel came for vacation, Tipu held the recording sessions , this way they finished he second album- OBAK BHALOBASHA ,which was a big hit. Then again, problems showed up. Russel had to leave for usa for good after releasing second album. Fuad joined the band and started working for the third album "
+    },
+    {
+        "id": 4,
+        "name": "Saidus Khaled Sumon",
+        "designation": "Bassist",
+        "band": "BassBaba Sumon",
+        "price": 250,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/Sumon-Bassbaba-bass-guitarist-2002260811.jpg",
+        "course": "7 Month",
+        "description": "Sumon started learning bass at the age of 15. He first auditioned for rock band Feelings in 1990 at the age of 16 and joined the band that year. He had played in 11 bands by the age of 19. In 1997, he joined Warfaze and later appeared in the bands 1998 hit album"
+    },
+    {
+        "id": 5,
+        "name": "Lincoln D Costa",
+        "designation": "Vocalist",
+        "band": "Artcell",
+        "price": 399,
+        "img": "https://pbs.twimg.com/media/DF7LL6rVoAAD0UB.jpg",
+        "course": "24 Month",
+        "description": "Artcell is a Bangladeshi progressive metal band formed in October 1999 by vocalist and riff guitarist George Lincoln DCosta, lead guitarist Ershad Zaman, bassist Saef Al Nazi Cézanne and drummer Kazi Sazzadul Asheqeen Shaju they have released only two studio albums and also have appeared in some mixed albums. The four original members of the band remained together until Ershad Zaman left the band in 2017 due to his personal disagreement. They pronounced Kazi Faisal Ahmed as their permanent lead guitarist on 11 November 2018.[2] According to The Daily Star, Artcell is one of the leading bands of the country"
+    },
+    {
+        "id": 6,
+        "name": "Ridy Sheikh",
+        "designation": "Clasical Dancer",
+        "band": "Dance with Ridy",
+        "price": 199,
+        "img": "https://i1.wp.com/moneyscotch.com/wp-content/uploads/2020/08/ridysheikh_71528876_500452460507695_2381565188050330259_n.jpg?fit=820%2C1024&ssl=1",
+        "course": "24 Month",
+        "description": "Ridy Sheikh, a promising Bangladeshi dancer who was born in Russia, is going to take part in the popular dance reality show Dance Plus Season 3, which will soon be aired on Star Plus. The dancer, who is also a choreographer, actor and model, has previously earned the title of Mangolee – Channel I Shera Nachiye 2015"
+    },
+    {
+        "id": 7,
+        "name": "Jalal Ahmed",
+        "designation": "Flute",
+        "band": "Jalals",
+        "price": 80,
+        "img": "https://images.prothomalo.com/prothomalo%2Fimport%2Fmedia%2F2016%2F11%2F11%2Fc26994abce89c00743c82d892a8c66d1-2.jpg?auto=format%2Ccompress&format=webp&w=376&dpr=2.6",
+        "course": "6 Month",
+        "description": "Banglar Banshi (Flute) By Jalal Ahmad. Traditional (Flute) music in Bangladesh. Jalal Ahmed The Great Flute player In Bangladesh & Sub-Continent"
+    },
+    {
+        "id": 8,
+        "name": "Nirmalya Roy",
+        "designation": "Tabla",
+        "band": "Nirmalya",
+        "price": 109,
+        "img": "https://content3.jdmagicbox.com/comp/kolkata/p6/033pxx33.xx33.101124150920.f7p6/catalogue/nirmalya-roy-garia-kolkata-music-classes-mj73p6tpni.jpg",
+        "course": "12 Month",
+        "description": "Nirmalya is an inspirational vocalist whose passion in music was recognized by his mother at early age. It was she who had inspired him to cultivate his talent in music. He had begun training in classical music with Prof. Sunirmal Bhattacharya from Bishwa Bharati University. He was also trained in Khayal by the late Govinda Prasad Debnath, a disciple of Pandit Chinmoy Lahiri. Later Nirmalya came under the guidance of Pandit Amiya Ranjan Banerjee, a renowned vocalist of Vishnupur Gharana."
+    },
+    {
+        "id": 9,
+        "name": "Dr Vidydhar Oke",
+        "designation": "Professional Harmonium Player",
+        "band": "Harmonica",
+        "price": 129,
+        "img": "https://images.hindustantimes.com/rf/image_size_800x600/HT/p1/2012/01/16/Incoming/Pictures/798237_Wallpaper2.jpg",
+        "course": "12 Month",
+        "description": "Vidyadhar Oke (b 1952) is an Indian Doctor of Medicine, musicologist, harmonium player and astrology consultant, who has done research in the use of shrutis (microtones) in Indian classical music and created a unique [1] 22-shruti version of the harmonium."
+    }
+]
